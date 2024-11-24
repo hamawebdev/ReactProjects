@@ -1,3 +1,3 @@
 # React Facts
 
-<img src="./react.png"
+<img src="./react.png" />
